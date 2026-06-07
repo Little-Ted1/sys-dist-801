@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "CEACOM TV",
+    "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-901/main/banner_ceacom.png",
+    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "Canal de Prueba 2",
+    "logo": "https://placehold.co/320x180/000000/FFFFFF/png?text=Canal+2",
+    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "Canal de Prueba 3",
+    "logo": "https://placehold.co/320x180/000000/FFFFFF/png?text=Canal+3",
+    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
+  }
+]
