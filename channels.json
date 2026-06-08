@@ -7,8 +7,8 @@
   },
   {
     "id": 2,
-    "nombre": "Canal de Prueba 2",
-    "logo": "https://placehold.co/320x180/000000/FFFFFF/png?text=Canal+2",
+    "nombre": "F10",
+    "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-801/405d608ca45b113d1118c451d0b9409f2c5e4e8a/logo_canal2.jpg",
     "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
   },
   {
