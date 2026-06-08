@@ -17,7 +17,7 @@
     "id": 3,
     "nombre": "Radio Activa FM",
     "logo": "https://placehold.co/320x180/2c3e50/ffffff/png?text=Radio+Activa",
-    "url": "https://servidor-ejemplo.com/radio.mp3",
+    "url": "https://stream.radiofides.com/radio/8000/fides.mp3",
     "categoria": "RADIO"
   },
   {
