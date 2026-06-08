@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "CEACOM TV",
-    "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-901/main/banner_ceacom.png",
+    "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-901/main/logo_canal1",
     "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
   },
   {
