@@ -3,18 +3,28 @@
     "id": 1,
     "nombre": "CEACOM TV",
     "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-801/ae6dcd9b7abcf02e52482670995de4e8a2bc19cd/logo_canal1.png",
-    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
+    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8",
+    "categoria": "TELEVISION"
   },
   {
     "id": 2,
     "nombre": "F10",
     "logo": "https://raw.githubusercontent.com/Little-Ted1/sys-dist-801/405d608ca45b113d1118c451d0b9409f2c5e4e8a/logo_canal2.jpg",
-    "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8"
+    "url": "https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8",
+    "categoria": "TELEVISION"
   },
   {
     "id": 3,
-    "nombre": "Canal de Prueba 3",
-    "logo": "https://placehold.co/320x180/000000/FFFFFF/png?text=Canal+3",
-    "url": "https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8"
+    "nombre": "Radio Activa FM",
+    "logo": "https://placehold.co/320x180/2c3e50/ffffff/png?text=Radio+Activa",
+    "url": "https://servidor-ejemplo.com/radio.mp3",
+    "categoria": "RADIO"
+  },
+  {
+    "id": 4,
+    "nombre": "Radio Panamericana",
+    "logo": "https://placehold.co/320x180/c0392b/ffffff/png?text=Panamericana",
+    "url": "https://stream-284.zeno.fm/pnwpbyfambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwbndwYnlmYW1icnV2IiwiaG9zdCI6InN0cmVhbS0yODQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjVxRC1fdW9ZUmZhdUQ4T3NCNkxnYXciLCJpYXQiOjE3ODA4ODgwMDYsImV4cCI6MTc4MDg4ODA2Nn0.Hb-JK7pEmcI6Fb2WzSBIfro1BXyl_W4ABcjNha-nPKg",
+    "categoria": "RADIO"
   }
 ]
